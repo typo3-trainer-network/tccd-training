@@ -2,6 +2,8 @@
 
 ## License
 
+### Documents
+
 The documents in this repository are double-licensed using Creative Commons
 licenses:
 
@@ -29,3 +31,15 @@ Under the following terms:
 For persons who are not and have not been members of the TTN, these additional
 terms apply:
 - **NonCommercial**: You may not use the material for commercial purposes.
+
+
+### Fonts
+
+The fonts in this repository are licensed under the [SIL Open Font License 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web).
+
+Please see [slides/fonts/README.md](slides/fonts/README.md) for details.
+
+### Remark JavaScript
+
+License: [MIT License](https://opensource.org/licenses/MIT)
+
