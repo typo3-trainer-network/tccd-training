@@ -1,5 +1,10 @@
 # Documents for TYPO3 developer trainings of the TYPO3 Trainer Network (TTN)
 
+## Contents of this repository
+
+- [Slides](slides/)
+- [Zombie-related icons](icons/zombies)
+
 ## License
 
 ### Documents
@@ -32,7 +37,6 @@ For persons who are not and have not been members of the TTN, these additional
 terms apply:
 - **NonCommercial**: You may not use the material for commercial purposes.
 
-
 ### Fonts
 
 The fonts in this repository are licensed under the [SIL Open Font License 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web).
@@ -43,3 +47,7 @@ Please see [slides/fonts/README.md](slides/fonts/README.md) for details.
 
 License: [MIT License](https://opensource.org/licenses/MIT)
 
+### Icons
+
+The zombie-related icons are taken from [Font Awesome](https://fontawesome.com/)
+and are licensed under the [CC BY 4.0 License](https://fontawesome.com/license/free).
