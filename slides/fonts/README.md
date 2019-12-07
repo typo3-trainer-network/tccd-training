@@ -1,7 +1,6 @@
-
 # Fonts
 
-These fonts were used according to the TYPO3 Style Guides:
+These fonts were used according to the TYPO3 Style Guide:
 
 [https://typo3.org/project/brand/style-guide/]()
 
