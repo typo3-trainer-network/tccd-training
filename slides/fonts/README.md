@@ -22,10 +22,10 @@ Version 3.006
 
 License: [SIL Open Font License 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web)
 
-## Source Code Pro
+## Cascadia Code
 
-Git repository: [https://github.com/adobe-fonts/source-code-pro]()
+Git repository: [https://github.com/microsoft/cascadia-code]()
 
-Commit: 235b72fc43a46cacf36e7c9b45d8d4fc0d121099
+Commit: d733599504811e8f3969de20368817d20e162dba
 
 License: [SIL Open Font License 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web)

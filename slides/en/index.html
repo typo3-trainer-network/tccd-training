@@ -8,27 +8,16 @@
 <body>
 <textarea id="source">
 
-class: center, middle
-
-# TYPO3 Developer Training
-
----
-
-# Agenda
-
-1. Introduction
-2. Deep-dive
-3. ...
-
----
-
-# Introduction
-
 </textarea>
 <script src="../js/remark.min.js">
 </script>
 <script>
-    var slideshow = remark.create();
+    var slideshow = remark.create({
+        sourceUrl: 'Slides.md',
+        ratio: '16:9',
+        highlightLanguage: 'php',
+        highlightStyle: 'solarized-light'
+    });
 </script>
 </body>
 </html>
